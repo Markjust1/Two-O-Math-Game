@@ -7,6 +7,10 @@ class Question
 
 end
 
+class Game
+  
+end
+
 class Player1 include Player
   #carries name and lives
   #can answer prompts when its turn
